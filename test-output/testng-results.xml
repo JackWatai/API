@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10335" started-at="2021-05-16T21:48:30 SGT" finished-at="2021-05-16T21:48:41 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10335" started-at="2021-05-16T21:48:30 SGT" finished-at="2021-05-16T21:48:41 SGT">
+      <class name="TestAll">
+        <test-method status="PASS" signature="Test1_post()[pri:0, instance:TestAll@396f6598]" name="Test1_post" duration-ms="4333" started-at="2021-05-16T21:48:30 SGT" finished-at="2021-05-16T21:48:35 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1_post -->
+        <test-method status="PASS" signature="Test2_put()[pri:0, instance:TestAll@396f6598]" name="Test2_put" duration-ms="1624" started-at="2021-05-16T21:48:35 SGT" finished-at="2021-05-16T21:48:36 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_put -->
+        <test-method status="PASS" signature="Test3_get()[pri:0, instance:TestAll@396f6598]" name="Test3_get" duration-ms="1000" started-at="2021-05-16T21:48:36 SGT" finished-at="2021-05-16T21:48:37 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_get -->
+        <test-method status="PASS" signature="Test3_patch()[pri:0, instance:TestAll@396f6598]" name="Test3_patch" duration-ms="1602" started-at="2021-05-16T21:48:37 SGT" finished-at="2021-05-16T21:48:39 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_patch -->
+        <test-method status="PASS" signature="Test4_delete()[pri:0, instance:TestAll@396f6598]" name="Test4_delete" duration-ms="1718" started-at="2021-05-16T21:48:39 SGT" finished-at="2021-05-16T21:48:41 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4_delete -->
+      </class> <!-- TestAll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
